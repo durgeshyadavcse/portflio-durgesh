@@ -2,7 +2,7 @@
   "name": "durgesh-yadav-portflio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://durgeshyadavcse.github.io/portflio-durgesh",
+  "homepage": "https://jazzy-rugelach-bd96b5.netlify.app",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
